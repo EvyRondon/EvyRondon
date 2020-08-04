@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**EvyRondon/EvyRondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my carreea
+- 🌱 I’m currently learning Node.js, Angular, Vue, Mongo, Express.
+- 📫 How to reach me: evionline@gmail
+- ⚡ Fun fact: I love programming <3
 
-Here are some ideas to get you started:
+__________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá Pessoal, 👋
+
+- 🔭 Atualmente estrou trabalhando na minha carreira
+- 🌱 Estou aprendendo Node.js, Angular, Vue, Mongo, Express.
+- 📫 Como me encontar: evionline@gmail
+- ⚡ Fato interessante: Eu amo programar <3
+
