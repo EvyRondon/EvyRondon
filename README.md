@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my carreea
+- 🔭 I’m currently working on my career
 - 🌱 I’m currently learning Node.js, Angular, Vue, Mongo, Express.
 - 📫 How to reach me: evionline@gmail
 - ⚡ Fun fact: I love programming <3
