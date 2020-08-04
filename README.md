@@ -1,4 +1,3 @@
-```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Evelym Maria de Lourdes Rondon Pereira
@@ -16,4 +15,3 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-evionline@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evionline@gmail.com)](mailto:evionline@gmail.com)
 
-```
