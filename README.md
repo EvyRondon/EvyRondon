@@ -1,16 +1,19 @@
-### Hi there 👋
+```markdown
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-- 🔭 I’m currently working on my career
-- 🌱 I’m currently learning Node.js, Angular, Vue, Mongo, Express.
-- 📫 How to reach me: evionline@gmail
-- ⚡ Fun fact: I love programming <3
+# Evelym Maria de Lourdes Rondon Pereira
 
-__________________________________________________________________
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-### Olá Pessoal, 👋
+ :rocket:  &nbsp; Estou estudando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
+ <br/> :blush: &nbsp; Aprimorando meus conhecimentos em HTML, CSS e Javascript.
+ <br/> :computer: &nbsp; Minha stack: Node.js & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, exercícios físicos: dança, yoga e treino funcional, e seriados no Netflix: black mirror.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EvelymRondon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelym-rondon-pereira-6054961b4/)](https://www.linkedin.com/in/evelym-rondon-pereira-6054961b4//) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-evionline@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evionline@gmail.com)](mailto:evionline@gmail.com)
 
-- 🔭 Atualmente estrou trabalhando na minha carreira
-- 🌱 Estou aprendendo Node.js, Angular, Vue, Mongo, Express.
-- 📫 Como me encontar: evionline@gmail
-- ⚡ Fato interessante: Eu amo programar <3
-
+```
