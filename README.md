@@ -6,7 +6,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou estudando na **Rocketseat**
+ :rocket:  &nbsp; Estou estudando na **wBrain** o curso New Project 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
  <br/> :blush: &nbsp; Aprimorando meus conhecimentos em HTML, CSS e Javascript.
  <br/> :computer: &nbsp; Minha stack: Node.js & Typescript
